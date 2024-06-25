@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 206, 253); 
+}
+
+#camera{
+    border-style:double;
+    border-color: rgb(0, 51, 4);
+}
+
+#result{
+    border-style: dotted;
+    border-color:rgb(11, 1, 68);
+}
